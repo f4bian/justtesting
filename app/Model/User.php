@@ -11,5 +11,6 @@ namespace Todo\Model;
 
 class User
 {
+  $user = '';
 
 }

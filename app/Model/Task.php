@@ -2,5 +2,5 @@
 namespace Todo\Model;
 class Tasblubk
 {
-
+  $task = '';
 }
